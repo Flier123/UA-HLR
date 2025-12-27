@@ -41,7 +41,7 @@ python image_target_of_oh_vs.py --cfg "cfgs/visda/uahlr.yaml" SETTING.S 0 SETTIN
 
 python image_target_of_oh_vs.py --cfg "cfgs/domainnet126/uahlr.yaml" SETTING.S 0 SETTING.T 1
 ```
-We also provide the trained target model weights with proposed UA-HLR method reported in the paper, which can be downloaded from [here](https://drive.google.com/file/d/1pLikCw6jOit12nsyV81OZ03Vng3KNDtu/view).
+We also provide the trained target model weights with proposed UA-HLR method reported in the paper, which can be downloaded from [here](https://drive.google.com/drive/folders/1ZDJeKPx0dfG5Qm3qvDISILNVOJid12la?usp=sharing).
 
 ## Acknowledgements
 This work is built upon the [DIFO codebase](https://github.com/tntek/source-free-domain-adaptation).
